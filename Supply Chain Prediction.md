@@ -1,4 +1,4 @@
-## This project is aim to explore the integration of ML Models in python with Tableau
+## This project is aimed to explore the integration of ML Models in python with Tableau
 
 [Data scource](https://data.mendeley.com/datasets/8gx2fvg2k6/5) 
 
